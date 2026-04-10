@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module Top_module(
+module Top_module_single_cycle_mips_processor(
 input clk,rst
 );
 
